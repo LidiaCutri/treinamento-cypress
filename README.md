@@ -1,13 +1,16 @@
 # Treinamento de Cypress
 
-##TODO
-descrever o que foi aprendido nos cursos
-comandos básicos de configuração e instalação - se outra pessoa precisar baixar o projto
-linhas de comandos parametrizadas que foram criadas
-
-referencia da documentação com a configuração do CI
- https://github.com/cypress-io/github-action#basic
-
-## O que você vai aprender
+## Treinamento Básico - Cypress - O que aprendi
+Como configurar um projeto Cypress do zero
+Como visitar páginas locais e remotas
+Como lidar com os elementos mais comuns encontrados em aplicações web
+Como testar upload de arquivos
+Como realizar as mais diversas verificações de resultados esperados
+Como criar comandos customizados
+Como lidar com links que abrem em outra aba do navegador
+Como rodar testes simulando as dimensões de um dispositivo móvel
+Como resolver os mesmos problemas de diferentes formas, conhecendo a API do Cypress
+Como executar os testes em um pipeline de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
+Como criar uma documentação mínima para seu projeto de testes automatizados
 
 
